@@ -2,6 +2,7 @@
 
 **Author:** Vedanth Nayak  
 **Status:** Independent research project (no institutional affiliation)
+**Level:** Pre-university independent theoretical physics project
 
 ## Abstract
 This paper develops a unified variational and quantum-scattering framework for circuit theory.
